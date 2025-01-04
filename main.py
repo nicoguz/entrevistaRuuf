@@ -69,9 +69,9 @@ def main(a, b, x, y):
     return max(orientación_1, orientación_2)
 
 if __name__ == "__main__":
-    a = 1
+    a = 2
     b = 2
-    x = 3
-    y = 4
+    x = 1
+    y = 10
     print(main(a, b, x, y))
         
